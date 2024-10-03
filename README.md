@@ -7,7 +7,7 @@ I'm a software enthusiast with a love for problem-solving and creative projects.
 ## Skills and Technologies
 
 - *Web Development:* -HTML , CSS , JavaScript (JS) ,React and MongoDB.
-- *Programming Languages:* - Java , C .
+- *Programming Languages:* - Java  .
 - *Other Tools:* - Git , GitHub, Visual Studio Code (VS Code).
   
 ## Known Languages
